@@ -19,4 +19,5 @@ Features:
 - Bricks are randomly set to 1 - 4 health, the darker the color the more health it has.
 - Images are taken from OpenGameArt
 - etc
+
 ![image](https://user-images.githubusercontent.com/19603541/155081849-32bec80f-93cc-4b9f-a032-21a0f89c1639.png)
